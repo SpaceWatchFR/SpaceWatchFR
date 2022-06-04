@@ -1,4 +1,3 @@
-```
 > ࿐・`👋`・**Hey , salut toi :3**
 
 Je vais te présenter SpaceWatch c'est un serveur communautaire 
@@ -30,4 +29,4 @@ Donc si l'envie t'en prends, rejoins, on t'attends tous avec impatience !
 || ||  ࿐ ⋆⋅⋅⋅⊱・`✨`・**Liens utiles** :
 ㅤ╰╴▸  Bannière : https://cdn.discordapp.com/attachments/905817343819669535/910452096921399316/standard.gif
 ㅤ╰╴▸  **__Discord__ :** https://discord.gg/spacewatch
-```
+
